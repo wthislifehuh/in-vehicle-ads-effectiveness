@@ -18,4 +18,7 @@ Y2 Assignment - Predict the effectiveness of in-vehicle ads
 - Data exploration
 - Preprocessing
 - Model selection
-- Tuning of the learning algorithm 
+- Tuning of the learning algorithm
+
+## Comparison of Accuracy Score
+![Project Result](https://github.com/wthislifehuh/in-vehicle-ads-effectiveness/blob/main/image.png)
